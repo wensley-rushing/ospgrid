@@ -11,7 +11,7 @@ import itertools
 from typing import Union, Tuple, List
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-import openseespy.opensees as osp
+import opensees.openseespy as osp
 import opsvis as ospv
 import numpy as np
 from .utils import save_figs_to_file
