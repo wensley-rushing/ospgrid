@@ -31,7 +31,7 @@ dependencies = [
     "matplotlib",
     "numpy",
     "opensees>=0.0.65",
-    "opsvis>=1.0.12",
+    "sees",
 ]
 
 [project.readme]
